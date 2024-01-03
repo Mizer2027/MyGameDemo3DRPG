@@ -1,0 +1,17 @@
+D:\1GameDevelop\3DRPG\Server\PEProtocol\bin\Debug\net6.0\PEProtocol.deps.json
+D:\1GameDevelop\3DRPG\Server\PEProtocol\bin\Debug\net6.0\PEProtocol.dll
+D:\1GameDevelop\3DRPG\Server\PEProtocol\bin\Debug\net6.0\PEProtocol.pdb
+D:\1GameDevelop\3DRPG\Server\PEProtocol\bin\Debug\net6.0\PESocket.pdb
+D:\1GameDevelop\3DRPG\Server\PEProtocol\obj\Debug\net6.0\PEProtocol.csproj.AssemblyReference.cache
+D:\1GameDevelop\3DRPG\Server\PEProtocol\obj\Debug\net6.0\PEProtocol.GeneratedMSBuildEditorConfig.editorconfig
+D:\1GameDevelop\3DRPG\Server\PEProtocol\obj\Debug\net6.0\PEProtocol.AssemblyInfoInputs.cache
+D:\1GameDevelop\3DRPG\Server\PEProtocol\obj\Debug\net6.0\PEProtocol.AssemblyInfo.cs
+D:\1GameDevelop\3DRPG\Server\PEProtocol\obj\Debug\net6.0\PEProtocol.csproj.CoreCompileInputs.cache
+D:\1GameDevelop\3DRPG\Server\PEProtocol\obj\Debug\net6.0\PEProtocol.csproj.CopyComplete
+D:\1GameDevelop\3DRPG\Server\PEProtocol\obj\Debug\net6.0\PEProtocol.dll
+D:\1GameDevelop\3DRPG\Server\PEProtocol\obj\Debug\net6.0\refint\PEProtocol.dll
+D:\1GameDevelop\3DRPG\Server\PEProtocol\obj\Debug\net6.0\PEProtocol.pdb
+D:\1GameDevelop\3DRPG\Server\PEProtocol\obj\Debug\net6.0\ref\PEProtocol.dll
+D:\1GameDevelop\3DRPG\Assets\Scripts\Net\Debug\net6.0\PEProtocol.deps.json
+D:\1GameDevelop\3DRPG\Assets\Scripts\Net\Debug\net6.0\PEProtocol.dll
+D:\1GameDevelop\3DRPG\Assets\Scripts\Net\Debug\net6.0\PEProtocol.pdb
